@@ -1,19 +1,28 @@
 /* Your stylesheet */
+
+/* color of latitude button */
 .navbar-brand
 {
     background-color: mediumslateblue;
-    padding: 3pt;
+    padding: 5pt;
     color: white;
+}
 
+/* text of latitude button */
+.navbar-light .navbar-brand {
+    color:white;
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
-.navbar-light .navbar-brand {color:white;}
+/* headings */
 
 h1 {
-  text-align: center;
- 
+  font-size: 25px;
   color: mediumslateblue;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h4 {
