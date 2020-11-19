@@ -1,1 +1,35 @@
 /* Your stylesheet */
+.navbar-brand
+{
+    background-color: mediumslateblue;
+    padding: 3pt;
+    color: white;
+
+
+}
+
+.navbar-light .navbar-brand {color:white;}
+
+h1 {
+  text-align: center;
+ 
+  color: mediumslateblue;
+}
+
+h4 {
+  color: mediumslateblue;
+  text-align: center;
+}
+
+/* 
+p {
+  font-size: 15px;
+  color: gray;
+}
+
+ul {
+  border-style: solid;
+  color: gray;
+} */
+
+  
