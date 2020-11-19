@@ -16,6 +16,16 @@
 
 }
 
+/* hover feature */
+
+.nav-item > a:hover {
+    background-color: lightgray
+}
+
+.dropdown-menu > a:hover {
+    background-color: lightgray
+}
+
 /* headings */
 
 h1 {
@@ -28,17 +38,25 @@ h1 {
 h4 {
   color: mediumslateblue;
   text-align: center;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-/* 
-p {
-  font-size: 15px;
-  color: gray;
+/* container */
+.container{
+
+    position: relative;
+    padding:50pt;
+    top: 55pt;
+    background-color:white;
+
 }
 
-ul {
-  border-style: solid;
-  color: gray;
-} */
+/* background color */
+body{
+    background-color:lightgray;
+}
+
+
 
   
