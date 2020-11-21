@@ -8,6 +8,8 @@
   * A comparisons page: all of the weather plots of one page
   * A data page: a responsive table containing the data
 * Next, I used CSS (Bootstrap elements) to style the webpage.
+* Find the website here:
+  https://chanrce.github.io/Web-Design-Challenge/
 
 ## Website Preview
 ![Landing](Images/Landing_screenshot.png)
